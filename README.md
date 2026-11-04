@@ -3,7 +3,7 @@
 Toto je zkusebni repozitar pro VYGEO
 
 ## Nadpis 2
-blfmsl
+toto je vylepsena verze
 
 ## Napis 3
 dsds
